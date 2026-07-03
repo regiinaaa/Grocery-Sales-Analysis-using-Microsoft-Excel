@@ -10,5 +10,7 @@ Retail businesses need to monitor sales performance across products and categori
 - Create an interactive dashboard
 - Generate business insights
 ## Dataset
-
+Source: Bootcamp Data Analyst Project - Karirnex  
+Dataset: [data_sembako(.xlsx)](./data_sembako/xlsx)
 ## Flowchart
+<img width="181" height="252" alt="image" src="https://github.com/user-attachments/assets/c8d966c2-5184-4e0e-a1e0-f6b130de6edf" />
